@@ -1,0 +1,49 @@
+{
+  "schedule": [
+    {
+      "grade": "10C",
+      "day_of_week": 5,
+      "lesson_name": "Mathematics",
+      "start_time": "08:00",
+      "end_time": "09:30",
+      "classroom": "101",
+      "teacher": "Ivanova A.I."
+    },
+    {
+      "grade": "10C",
+      "day_of_week": 5,
+      "lesson_name": "Physics",
+      "start_time": "09:40",
+      "end_time": "11:10",
+      "classroom": "205",
+      "teacher": "Petrov V.P."
+    },
+    {
+      "grade": "10C",
+      "day_of_week": 3,
+      "lesson_name": "Literature",
+      "start_time": "11:20",
+      "end_time": "12:21",
+      "classroom": "306",
+      "teacher": "Sidorova O.N."
+    },
+    {
+      "grade": "10C",
+      "day_of_week":3,
+      "lesson_name": "Chemistry",
+      "start_time": "14:13",
+      "end_time": "20:40",
+      "classroom": "109",
+      "teacher": "Kozlov I.V."
+    },
+    {
+      "grade": "10C",
+      "day_of_week":3,
+      "lesson_name": "History",
+      "start_time": "09:00",
+      "end_time": "12:06",
+      "classroom": "201",
+      "teacher": "Grigoryeva E.M."
+    }
+  ]
+}
